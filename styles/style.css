@@ -1,0 +1,42 @@
+body {
+  background-color: ghostwhite;
+}
+
+#description {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.header {
+  /* margin: 0 auto; */
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  border-radius: 5px;
+  border: 2px solid dodgerblue;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 3px 8px;
+  border: 1px solid rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+h1 {
+  color: dodgerblue;
+}
+
+h3 {
+  color: tomato;
+}
+
+h4 {
+  color: salmon;
+}
